@@ -83,6 +83,3 @@ spec:
               - marshal:
                   json: {}
               - to: "kamelet:sink"
-© 2021 GitHub, Inc.
-Terms
-Privacy
